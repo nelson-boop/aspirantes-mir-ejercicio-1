@@ -8,5 +8,5 @@ git commit -m "Version inicial"
 git push origin master
 
 final para cargargit finally
-cargargit
+cargargit desde otro origen
 
